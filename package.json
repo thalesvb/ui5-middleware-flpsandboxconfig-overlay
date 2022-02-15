@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/thalesvb/ui5-middleware-flpsandboxconfig-overlay/issues"
   },
-  "homepage": "https://github.com/thalesvb/ui5-middleware-flpsandboxconfig-overlay#readme"
+  "homepage": "https://github.com/thalesvb/ui5-middleware-flpsandboxconfig-overlay#readme",
+  "files": [
+    "ui5.yaml",
+    "lib/"
+  ]
 }
