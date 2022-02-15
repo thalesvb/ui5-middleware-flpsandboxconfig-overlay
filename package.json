@@ -12,12 +12,20 @@
     "fiori",
     "launchpad"
   ],
-  "author": "ThalesVB",
+  "author": {
+    "name": "Thales Batista",
+    "email": "thalesvb@live.com",
+    "url": "https://github.com/thalesvb"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thalesvb/ui5-middleware-flpsandboxconfig-overlay/issues"
   },
   "homepage": "https://github.com/thalesvb/ui5-middleware-flpsandboxconfig-overlay#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "files": [
     "ui5.yaml",
     "lib/"
